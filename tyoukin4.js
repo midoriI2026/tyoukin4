@@ -1,6 +1,4 @@
 (function() {
-const VERSION = "v1.0";
-console.log("超勤4:", VERSION);
 'use strict';
 
 /********** ① DBTaskForm → 編集画面へ（同一タブ） **********/
